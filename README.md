@@ -16,7 +16,7 @@ Undergraduate Student at **Konkuk University**, Seoul, South Korea
 
 ## About Me
 
-I am an undergraduate student majoring in **Business Administration** and double majoring in **Industrial Engineering** at Konkuk University.
+I am an undergraduate student majoring in **Business Administration, Industrial Engineering** at Konkuk University.
 
 My academic interests lie at the intersection of **statistics, finance, and data analytics**, particularly in:
 
@@ -104,10 +104,9 @@ Designed and implemented a **relational database** to integrate research data ac
 ## Awards & Qualifications
 
 - **2nd Place**, Joint Corporate Analysis Competition — KIRA & KFA (Dec 2025)
-- **Activity Excellence Award**, KU Super Rookie 7th Cohort (Oct 2025)
-- **College Specialization Scholarship**, Konkuk University College of Business (1H 2026)
-- **Certifications:** Financial Risk Manager (재무위험관리사), Investment Asset Manager (투자자산운용사), SQLD, ADsP
-- **Big Data Analyst (빅데이터분석기사):** Written examination passed
+- **Activity Excellence Award**, KU Super Rookie 7th Cohort - Seoul Metropolitan City (Oct 2025)
+- **College Specialization Scholarship**, Konkuk University (1H 2026)
+- **Certifications:** Financial Risk Manager (재무위험관리사), Investment Asset Manager (투자자산운용사), SQLD, ADsP, Big Data Analyst (빅데이터분석기사)
 
 ---
 
