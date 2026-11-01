@@ -5,11 +5,6 @@
 **Business Administration × Industrial Engineering**  
 **Quantitative Risk Management · Financial Data Analysis · Machine Learning**
 
-Undergraduate Student at **Konkuk University**, Seoul, South Korea
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-374151?style=flat-square&logo=gmail&logoColor=white)](mailto:kbjhn705@konkuk.ac.kr)
-[![GitHub](https://img.shields.io/badge/GitHub-ca--adidas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ca-adidas)
-
 </div>
 
 ---
